@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1753689247697",
+    "date": "2025-07-28",
+    "name": "Pav Bhaji",
+    "costPerPlate": 12,
+    "totalIngredientsCost": 5,
+    "totalPlates": 10,
+    "platesWasted": 50,
+    "totalEarning": -460
+  },
+  {
+    "id": "1753805531015",
+    "date": "2025-07-29",
+    "name": "Chole Bhature",
+    "costPerPlate": 10,
+    "totalIngredientsCost": 2,
+    "totalPlates": 200,
+    "platesWasted": 10,
+    "totalEarning": 1898.1,
+    "remark": "nkf"
+  }
+]

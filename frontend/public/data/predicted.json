@@ -1,0 +1,33 @@
+{
+  "trainedAt": "2025-07-29T21:43:08.769974",
+  "modelType": "LinearRegression",
+  "dishes": [
+    "Biryani",
+    "Chole Bhature",
+    "Egg Curry",
+    "Egg Fried Rice",
+    "Fish Curry",
+    "Kadhi Chawal",
+    "Lassi",
+    "Pav Bhaji",
+    "Rajma Chawal",
+    "Samosa"
+  ],
+  "predictedEarning": [
+    163.2,
+    1898.1,
+    57,
+    173.33,
+    75.79,
+    2960,
+    386.67,
+    -460,
+    126,
+    478.33
+  ],
+  "bestAction": {
+    "dish": "Kadhi Chawal",
+    "value": 2960
+  },
+  "lastCalibrated": "2025-07-29T16:13:08.873Z"
+}
