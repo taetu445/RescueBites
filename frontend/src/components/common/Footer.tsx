@@ -36,7 +36,7 @@ const Footer: React.FC = () => (
             >
               <Heart className="h-8 w-8 text-orange-400" />
             </motion.div>
-            <span className="text-2xl font-bold">PlatePilot.AI</span>
+            <span className="text-2xl font-bold">RescueBites</span>
           </div>
 
           <p className="mb-6 max-w-md leading-relaxed text-green-100">
@@ -66,7 +66,7 @@ const Footer: React.FC = () => (
           <ul className="space-y-3 text-green-100">
             <li className="flex items-center space-x-2">
               <Mail className="h-4 w-4" />
-              <span>hello@platepilot.ai</span>
+              <span>hello@rescuebites</span>
             </li>
             <li className="flex items-center space-x-2">
               <Phone className="h-4 w-4" />

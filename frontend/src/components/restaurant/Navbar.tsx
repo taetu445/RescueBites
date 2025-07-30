@@ -61,7 +61,7 @@ const RestaurantNavbar: React.FC = () => {
                             <ChefHat className="h-8 w-8 text-green-600" />
                           </motion.div>
                           <span className="bg-gradient-to-r from-green-600 to-orange-600 bg-clip-text text-xl font-bold text-transparent">
-                            PlatePilot.AI 
+                            RescueBites 
                           </span>
                         </Link>
           </div>

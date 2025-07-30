@@ -39,7 +39,7 @@ const SigninRestaurant: React.FC = () => {
       >
         <div className="flex items-center justify-center mb-6 space-x-3">
           <ChefHat className="h-10 w-10 text-orange-600" />
-          <h1 className="text-3xl font-extrabold text-gray-800">PlatePilot.AI</h1>
+          <h1 className="text-3xl font-extrabold text-gray-800">RescueBites</h1>
         </div>
 
         <h2 className="text-center text-lg font-medium text-gray-700 mb-8">
@@ -57,7 +57,7 @@ const SigninRestaurant: React.FC = () => {
               onChange={(e) => setEmail(e.target.value)}
               required
               className="w-full px-4 py-2 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent transition"
-              placeholder="owner@platepilot.ai"
+              placeholder="owner@rescuebites"
             />
           </div>
 

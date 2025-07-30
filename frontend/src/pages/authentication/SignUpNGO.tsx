@@ -54,7 +54,7 @@ const SignUpNGO: React.FC = () => {
       >
         <div className="flex items-center justify-center mb-6 space-x-3">
           <HandHeart className="h-10 w-10 text-green-600" />
-          <h1 className="text-3xl font-extrabold text-gray-800">PlatePilot.AI</h1>
+          <h1 className="text-3xl font-extrabold text-gray-800">RescueBites</h1>
         </div>
 
         <h2 className="text-center text-lg font-medium text-gray-700 mb-4">Join as NGO Partner</h2>
@@ -81,7 +81,7 @@ const SignUpNGO: React.FC = () => {
               onChange={(e) => setEmail(e.target.value)}
               required
               className="w-full px-4 py-2 rounded-xl border border-gray-200 focus:ring-2 focus:ring-green-500 transition"
-              placeholder="ngo@splatepilot.ai"
+              placeholder="ngo@rescuebites"
             />
           </div>
 
