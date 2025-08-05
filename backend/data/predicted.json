@@ -1,7 +1,15 @@
 {
-  "trainedAt": "2025-07-29T21:43:08.769974",
+  "trainedAt": "2025-08-04T20:57:53.867049",
   "modelType": "LinearRegression",
+  "features": [
+    "dish_one-hot",
+    "costPerPlate",
+    "totalIngredientsCost",
+    "totalPlates",
+    "platesWasted"
+  ],
   "dishes": [
+    "Aloo Paratha",
     "Biryani",
     "Chole Bhature",
     "Egg Curry",
@@ -9,25 +17,34 @@
     "Fish Curry",
     "Kadhi Chawal",
     "Lassi",
+    "Masala Dosa",
+    "Paneer Butter Masala",
     "Pav Bhaji",
     "Rajma Chawal",
     "Samosa"
   ],
   "predictedEarning": [
+    6214.9,
     163.2,
-    1898.1,
+    2714.9,
     57,
-    173.33,
-    75.79,
-    2960,
-    386.67,
-    -460,
-    126,
-    478.33
+    234.49,
+    96.18,
+    3143.47,
+    447.83,
+    6639.08,
+    9826.67,
+    538.89,
+    146.39,
+    519.1
   ],
   "bestAction": {
-    "dish": "Kadhi Chawal",
-    "value": 2960
+    "dish": "Paneer Butter Masala",
+    "value": 9826.67
   },
-  "lastCalibrated": "2025-07-29T16:13:08.873Z"
+  "metrics": {
+    "mse": 44300.22471910113,
+    "r2": 0.993826301935304
+  },
+  "lastCalibrated": "2025-08-04T15:27:53.942Z"
 }

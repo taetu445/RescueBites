@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "id": "1754318853200",
+    "date": "2025-08-04",
+    "name": "Chole Bhature",
+    "costPerPlate": 20,
+    "totalIngredientsCost": 2,
+    "totalPlates": 200,
+    "platesWasted": 10,
+    "totalEarning": 3798.1,
+    "remark": "veg thali"
+  },
+  {
+    "id": "1754319780744",
+    "date": "2025-08-04",
+    "name": "Aloo Paratha",
+    "costPerPlate": 20,
+    "totalIngredientsCost": 1,
+    "totalPlates": 500,
+    "platesWasted": 5,
+    "totalEarning": 9899.01,
+    "remark": "bdya h"
+  },
+  {
+    "id": "1754320242239",
+    "date": "2025-08-04",
+    "name": "Masala Dosa",
+    "costPerPlate": 20,
+    "totalIngredientsCost": 2.5,
+    "totalPlates": 333,
+    "platesWasted": 5,
+    "totalEarning": 6557.54,
+    "remark": "veg"
+  },
+  {
+    "id": "1754320725977",
+    "date": "2025-08-04",
+    "name": "Paneer Butter Masala",
+    "costPerPlate": 50,
+    "totalIngredientsCost": 5,
+    "totalPlates": 200,
+    "platesWasted": 5,
+    "totalEarning": 9745.13
+  },
+  {
+    "id": "1754321264274",
+    "date": "2025-08-04",
+    "name": "Aloo Paratha",
+    "costPerPlate": 7,
+    "totalIngredientsCost": 2,
+    "totalPlates": 200,
+    "platesWasted": 80,
+    "totalEarning": 838.8
+  }
+]
